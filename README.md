@@ -7,4 +7,4 @@ python -m http.server
 -- then in web browser address field, write:
 http://localhost:8000
 
--- then make way to the folder where files are located.
+-- then make your way to the folder where files are located.
